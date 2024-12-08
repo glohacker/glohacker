@@ -1,16 +1,23 @@
-## Hi there 👋
+### Sr. Full Stack Engineer
 
-<!--
-**glohacker/glohacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Strong background in:
+  - Startups and MVP development
+  - Healthcare, FinTech, and E-commerce
+  - Cross-functional teams and fast development environment
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Skills
+  - **JavaScript (ES6+)**, **TypeScript**, HTML5, CSS3
+  - **React**, Redux, Next.js, React Query, React-test-library
+  - **GraphQL**, Apollo, yoga-graphql
+  - **Node.js**, Express.js, **Nest.js**, **TypeORM**, **Prisma**
+  - **Python**, **Django**, Flask
+  - **Data Analytics**, NumPy, Keras, TensorFlow
+  - **PostgreSQL**, MySQL, MongoDB, Redis, Memcached
+  - Webpack, Vercel
+  - T-SQL, PL/SQL, Stored Procedure
+  - **Jest**, PyTest, **Selenium**
+  - CI/CD, GitHub Actions, **Jenkins**
+  - **Docker**, Kubernetes
+  - **AWS**, Azure
+  - **Bootstrap**, Motion UI, TailwindCSS
+  - **D3.js**, Three.js, Babylon.js
